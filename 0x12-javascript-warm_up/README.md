@@ -5,3 +5,5 @@
 1-multi_languages.js
 
 2-arguments.js
+
+3-value_argument.js
