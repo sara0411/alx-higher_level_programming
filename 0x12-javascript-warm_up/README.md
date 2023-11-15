@@ -4,3 +4,4 @@
 
 1-multi_languages.js
 
+2-arguments.js
