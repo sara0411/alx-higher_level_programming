@@ -26,3 +26,7 @@ model_state.py
 11-model_state_insert.py
 
 12-model_state_update_id_2.py
+
+13-model_state_delete_a.py
+
+14-model_city_fetch_by_state.py
